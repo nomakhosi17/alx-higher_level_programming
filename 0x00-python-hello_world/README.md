@@ -1,1 +1,2 @@
-this is the readme fir this project
+0x00. Python - Hello, World
+
